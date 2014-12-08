@@ -20,6 +20,7 @@ namespace Hello_world
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello world5555");
+            MessageBox.Show("test");
         }
     }
 }
