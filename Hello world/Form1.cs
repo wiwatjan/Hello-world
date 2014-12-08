@@ -22,4 +22,8 @@ namespace Hello_world
             MessageBox.Show("Hello world5555");
         }
     }
+    private void testfunction(string data)
+    {
+        MessageBox.Show(data);
+    }
 }
